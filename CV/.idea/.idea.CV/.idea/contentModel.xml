@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alex\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alex\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CV.-437109760.00" t="ExcludeRecursive" />
+    <e p="E:\Unity projects\CV" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Demigiant" t="Include">
+          <e p="DOTween" t="Include">
+            <e p="Modules" t="Include">
+              <e p="DOTweenModuleAudio.cs" t="Include" />
+              <e p="DOTweenModulePhysics.cs" t="Include" />
+              <e p="DOTweenModulePhysics2D.cs" t="Include" />
+              <e p="DOTweenModuleSprite.cs" t="Include" />
+              <e p="DOTweenModuleUI.cs" t="Include" />
+              <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+              <e p="DOTweenModuleUtils.cs" t="Include" />
+            </e>
+            <e p="Readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="AssetStoreOriginals" t="Include">
+            <e p="_SNAPS_PrototypingAssets" t="Include">
+              <e p="About" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="ReadmeEditor.cs" t="Include" />
+                  </e>
+                  <e p="Readme.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="PackageChecker" t="Include">
+                    <e p="PackageChecker.cs" t="Include" />
+                    <e p="PackageImportList.txt" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="QuickOutline" t="Include">
+            <e p="Readme.txt" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="OutlineFill.shader" t="Include" />
+                <e p="OutlineMask.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Outline.cs" t="Include" />
+            </e>
+          </e>
+          <e p="TS Sounds" t="Include">
+            <e p="Read Me.txt" t="Include" />
+          </e>
+        </e>
+        <e p="RoomInputActions.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Interfaces.cs" t="Include" />
+          <e p="MonoBehaviours" t="Include">
+            <e p="Abstract" t="Include">
+              <e p="MonoSingleton.cs" t="Include" />
+            </e>
+            <e p="PlayspaceSystem" t="Include">
+              <e p="EventManager.cs" t="Include" />
+              <e p="Highlight" t="Include">
+                <e p="Highlightable.cs" t="Include" />
+                <e p="Highlighter.cs" t="Include" />
+              </e>
+              <e p="Playspace.cs" t="Include" />
+              <e p="PlayspaceAgents" t="Include">
+                <e p="AnimatedPlayspaceAgent.cs" t="Include" />
+                <e p="Diploma.cs" t="Include" />
+                <e p="Drawer.cs" t="Include" />
+                <e p="GlobeSpinner.cs" t="Include" />
+                <e p="PlayspaceAgent.cs" t="Include" />
+                <e p="Pushpin.cs" t="Include" />
+              </e>
+              <e p="PlayspaceCameraController.cs" t="Include" />
+              <e p="PlayspaceManager.cs" t="Include" />
+              <e p="ReturnFeatureHandler.cs" t="Include" />
+            </e>
+            <e p="TextManager.cs" t="Include" />
+          </e>
+          <e p="UtilityHelper.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CV.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
